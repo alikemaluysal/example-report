@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","129","testExample4","Surefire suite","Thu Oct 31 23:43:17 CET 2024","failed","Thu Oct 31 23:43:17 CET 2024","org.example.ExampleTest","Surefire test","org.example.ExampleTest","testExample4"
+"","383","testExample2","Surefire suite","Thu Oct 31 23:43:16 CET 2024","failed","Thu Oct 31 23:43:16 CET 2024","org.example.ExampleTest","Surefire test","org.example.ExampleTest","testExample2"
+"","1155","testExample","Surefire suite","Thu Oct 31 23:43:15 CET 2024","passed","Thu Oct 31 23:43:16 CET 2024","org.example.ExampleTest","Surefire test","org.example.ExampleTest","testExample"
+"","158","testExample3","Surefire suite","Thu Oct 31 23:43:16 CET 2024","passed","Thu Oct 31 23:43:17 CET 2024","org.example.ExampleTest","Surefire test","org.example.ExampleTest","testExample3"
